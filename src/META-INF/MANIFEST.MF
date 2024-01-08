@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+com.fractalrenderer.Main-Class: com.fractalrenderer.Main
+
